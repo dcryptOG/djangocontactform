@@ -1,1 +1,1 @@
-# djangocontactform
+# django-contact-form
